@@ -1,4 +1,5 @@
 <h1>
 
-  Landing Page Using Tailwind CSS
+  Landing Page
 </h1>
+<h2> Using Tailwind CSS</h2>
